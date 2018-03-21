@@ -1,0 +1,14 @@
+c:\users\cnc\documents\visual studio 2015\Projects\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe
+c:\users\cnc\documents\visual studio 2015\Projects\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.pdb
+c:\users\cnc\documents\visual studio 2015\Projects\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csprojResolveAssemblyReference.cache
+c:\users\cnc\documents\visual studio 2015\Projects\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.ProjectInstaller.resources
+c:\users\cnc\documents\visual studio 2015\Projects\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.GenerateResource.Cache
+c:\users\cnc\documents\visual studio 2015\Projects\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.exe
+c:\users\cnc\documents\visual studio 2015\Projects\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.pdb
+C:\Users\IMGreenTea\Downloads\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe
+C:\Users\IMGreenTea\Downloads\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.pdb
+C:\Users\IMGreenTea\Downloads\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.ProjectInstaller.resources
+C:\Users\IMGreenTea\Downloads\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.GenerateResource.Cache
+C:\Users\IMGreenTea\Downloads\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\IMGreenTea\Downloads\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.exe
+C:\Users\IMGreenTea\Downloads\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.pdb

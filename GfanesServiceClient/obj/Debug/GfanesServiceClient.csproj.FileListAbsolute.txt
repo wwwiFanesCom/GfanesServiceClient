@@ -1,0 +1,12 @@
+C:\Users\IMGreenTea\source\repos\GfanesService\GfanesServiceClient\bin\Debug\GfanesServiceClient.exe.config
+C:\Users\IMGreenTea\source\repos\GfanesService\GfanesServiceClient\bin\Debug\GfanesServiceClient.exe
+C:\Users\IMGreenTea\source\repos\GfanesService\GfanesServiceClient\bin\Debug\GfanesServiceClient.pdb
+C:\Users\IMGreenTea\source\repos\GfanesService\GfanesServiceClient\bin\Debug\MyWindowsService.exe
+C:\Users\IMGreenTea\source\repos\GfanesService\GfanesServiceClient\bin\Debug\MyWindowsService.pdb
+C:\Users\IMGreenTea\source\repos\GfanesService\GfanesServiceClient\obj\Debug\GfanesServiceClient.Form1.resources
+C:\Users\IMGreenTea\source\repos\GfanesService\GfanesServiceClient\obj\Debug\GfanesServiceClient.Properties.Resources.resources
+C:\Users\IMGreenTea\source\repos\GfanesService\GfanesServiceClient\obj\Debug\GfanesServiceClient.csproj.GenerateResource.Cache
+C:\Users\IMGreenTea\source\repos\GfanesService\GfanesServiceClient\obj\Debug\GfanesServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\IMGreenTea\source\repos\GfanesService\GfanesServiceClient\obj\Debug\GfanesServiceClient.exe
+C:\Users\IMGreenTea\source\repos\GfanesService\GfanesServiceClient\obj\Debug\GfanesServiceClient.pdb
+C:\Users\IMGreenTea\source\repos\GfanesService\GfanesServiceClient\obj\Debug\GfanesServiceClient.csprojResolveAssemblyReference.cache
